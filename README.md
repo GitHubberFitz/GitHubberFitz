@@ -11,11 +11,14 @@
 
 ### Trying to master:
 - CI/CD
+- Ansible
+- K8s
 
 ### Working on:
 - CTF challenges
+- Home Automation
 
-### To be published:
+### Working to publish:
 - Hologram IOT communication
 - SDRTrunk Webtop
 - SDRTrunk Kasm
